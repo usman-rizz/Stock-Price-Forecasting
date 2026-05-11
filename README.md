@@ -113,6 +113,10 @@ Possible future enhancements:
 - Multi-stock forecasting
 - Sentiment analysis integration
 
+<p align="center">
+  <b>📈 Turning Financial Data into Predictive Intelligence 🚀</b>
+</p>
+
 # 🙋‍♂️ About Author – Muhammad Usman
 
 Data Enthusiast • Machine Learning Learner • Clean Coding Practitioner
